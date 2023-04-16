@@ -1,4 +1,4 @@
-![head.png](https://media.discordapp.net/attachments/1071126169270878249/1074385707629543595/Sans_tiaztre-1.png?width=1204&height=401)
+
 
 <p align="center">
 ─────────────────────────────────────
