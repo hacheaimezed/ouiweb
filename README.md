@@ -6,8 +6,6 @@
 
 Hi there, thanks for stopping by, this is the  Speaking.
 
-<img align='right' src="https://i.imgur.com/UrVpbbR.gif" width="230">
-
 ```javascript
 const Unknow ? = {
     pronouns: "Your grace" | "My Lord",
